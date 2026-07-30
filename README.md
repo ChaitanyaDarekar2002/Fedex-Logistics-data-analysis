@@ -172,10 +172,10 @@ jupyter
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Chaitanya Darekar**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/chaitanyadarekar2002
+- LinkedIn: https://linkedin.com/in/chaitanyadarekar02
 
 ---
 
