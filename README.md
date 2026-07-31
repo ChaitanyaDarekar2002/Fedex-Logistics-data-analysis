@@ -90,57 +90,6 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-FedEx-Logistics-Data-Analysis/
-│
-├── data/
-│   └── fedex_logistics.csv
-│
-├── notebooks/
-│   └── FedEx_Logistics_Analysis.ipynb
-│
-├── images/
-│   └── charts/
-│
-├── requirements.txt
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/FedEx-Logistics-Data-Analysis.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd FedEx-Logistics-Data-Analysis
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 📦 Required Libraries
 
 ```text
