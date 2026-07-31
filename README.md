@@ -75,6 +75,10 @@ The project includes:
 - Correlation Heatmap
 
 ---
+## Power BI Dashborad Preview
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/8f8bc17f-9a8f-4aab-841b-3eff7132ddd4" />
+
 
 ## 🔍 Key Insights
 
